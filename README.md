@@ -1,0 +1,1 @@
+Om man tränar på alla 60000 biler i 10 epoker så får modellen runt 97% på testdatan. Tar dock sjukt lång tid att köra. Testade att ha decresing learning rate men det blev sämre resultat så jag har inte inkluderat den koden i commiten
